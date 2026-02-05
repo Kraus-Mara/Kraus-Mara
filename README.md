@@ -18,13 +18,13 @@
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=PQyqrlFOe5s">
-<strong>Listen to good sh*t</strong>
+<strong>Click to listen to good sh*t while coding</strong>
 <br />
 <br />
 
 
 <p>
-<img height="120" width="120" alt="Typing" src="images/typing.gif"> 
+<img height="120" width="160" alt="Typing" src="images/typing.gif"> 
 </a>
 </p>
 
