@@ -9,7 +9,7 @@
 
 <p>
 
-<img alt="Angry" height="80" src="images/angry.gif">
+<img alt="Angry" height="120" src="images/angry.gif">
 </a>
 </p>
 
@@ -17,8 +17,8 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
+<a href="https://www.youtube.com/watch?v=PQyqrlFOe5s">
+<strong>Listen to good sh*t</strong>
 <br />
 <br />
 
