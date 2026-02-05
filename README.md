@@ -24,7 +24,7 @@
 
 
 <p>
-<img height="120" alt="Typing" src="images/typing.gif"> 
+<img height="120" width="120" alt="Typing" src="images/typing.gif"> 
 </a>
 </p>
 
