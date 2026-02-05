@@ -2,14 +2,14 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<strong> U're using claude code ? 🤣🫵🏻</strong>
+<strong> Using claude code ?</strong>
 <br />
 <br />
 <br />
 
 <p>
 
-<img alt="Angry" height="120" src="images/angry.gif">
+<img alt="Angry" height="160" src="images/angry.gif">
 </a>
 </p>
 
